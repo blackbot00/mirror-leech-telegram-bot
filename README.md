@@ -2,6 +2,8 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
+[![Deploy to heruko](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/blackbot00/mirror-leech-telegram-bot)
+
 ## By [anasty17](https://github.com/anasty17)
 In each single file there is a major change from base code, it's almost totaly different. Here some of features and fixes that I remember.
 ### qBittorrent
